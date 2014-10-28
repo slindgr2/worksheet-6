@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+img:hover {
+    height: 300px;
+}
+img {
+    height: 200px;
+}
+img.bigger:hover {
+    height: 400px;
+}
+img.bigger {
+    height: 300px;
+}
